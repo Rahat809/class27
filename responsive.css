@@ -1,0 +1,172 @@
+@media (max-width:1930px) {
+    .contact_way {
+        margin-left: 8rem;
+    }
+    
+}
+@media (max-width:1665px) {
+    .contact_way {
+        margin-left: 2rem;
+    }
+    
+}
+
+@media (max-width:1550px) {
+    .contact_way {
+        margin-left: 0rem;
+    }
+    
+}
+
+
+@media (max-width:1515px) {
+    .track {
+        margin: 0 8.5rem;
+    }
+}
+@media (max-width:1408px) {
+    .track {
+        margin: 0 7.5rem;
+    }
+}
+
+@media (max-width:1400px) {
+    .track {
+        margin: 0 7.5rem;
+    }
+    .about_img img {
+        width: 32rem;
+    }
+    .about_me {
+        width: 50%;
+    }
+
+    .about_me .me {
+        padding-bottom: 33px;
+    }
+}
+
+@media (max-width:1301px){
+    .contact_way {
+        padding-left: 8rem;
+    }
+    .track {
+        margin: 0px 4.5rem;
+    }
+}
+
+@media (max-width:1200px) {
+    .cards .card {
+        margin-left: .5rem;
+    }
+}
+
+@media (max-width:1123px){
+    .track {
+        float: none;
+    }
+    .contact_way {
+        padding-left: 0rem;
+    }
+
+    .about_me {
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+    .about_img {
+        float: none;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .about_img img {
+        width: 35rem;
+    }
+}
+
+@media (max-width:1050px) {
+    .cards .card {
+        width: 35%;
+    }
+    .cards .card {
+        margin-left: 4.5rem;
+    }
+}
+@media (max-width:855px) {
+
+    .menu .hamberger{
+        display: block;
+ 
+ }
+    .menu{
+        position: relative;
+    }
+
+    #check:checked ~ .mobile_nav{
+       right: 0;
+    }
+    #check:checked ~ .ami{
+        display: none;
+     }
+
+    .main_menu{
+        display: none;
+    }
+
+}
+
+
+@media (max-width:770px) {
+    .cards .card {
+        width: 70%;
+        padding: 3rem 2rem;
+        box-sizing: content-box;
+        border: 1px solid #ddd;
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 1rem;
+    }
+
+    .cards {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+    }
+
+    .logo{
+        /* float: none; */
+        text-align: center;
+    }
+    .logo h1 {
+        font-size: 28px;
+    }
+    .about_img img {
+        width: 100%;
+    }
+
+    .footer .social i {
+        margin-left: 1rem;
+    }
+}
+
+@media (max-width:650px) {
+
+    .about_img img {
+        width: 100%;
+    }
+}
+
+@media (max-width:305px) {
+    .content h1 {
+        font-size: 2.5rem;
+    }
+
+}
+
+@media (max-width:230px) {
+    .content h1 {
+        font-size: 1.5rem;
+    }
+}
